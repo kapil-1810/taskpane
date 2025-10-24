@@ -1,0 +1,11 @@
+{
+  "totalArticles": 1,
+  "articles": [
+    {
+      "title": "Fallback: Welcome to your news widget!",
+      "description": "This is fallback content. If you see this, the live news function may be configuring.",
+      "url": "#",
+      "source": { "name": "Local Fallback" }
+    }
+  ]
+}

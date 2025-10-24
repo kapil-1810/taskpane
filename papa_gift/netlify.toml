@@ -1,0 +1,6 @@
+[build]
+  # This tells Netlify: "My functions are in the 'netlify/functions' folder"
+  functions = "netlify/functions"
+
+  # This tells Netlify: "My website files are right here in this folder"
+  publish = "/"
